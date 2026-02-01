@@ -3,9 +3,12 @@ Hack Club's hackpad with my design spin!
 
 Find my jounal here: [Hack Club ScrapBook](https://scrapbook.hackclub.com/pi.obj)
 
-Blue Print (Initial Plan): ![New Project](https://github.com/user-attachments/assets/cdaf6f46-037d-422d-8da7-d46094da6653)
+Blue Print (Initial Plan): 
+
+![New Project](https://github.com/user-attachments/assets/cdaf6f46-037d-422d-8da7-d46094da6653)
 
 Layout Concepts: 
+
 1. 
 <img width="459" height="459" alt="Group 12" src="https://github.com/user-attachments/assets/a92c28d3-c95f-4eb8-a5df-323a4ef76886" />
 
