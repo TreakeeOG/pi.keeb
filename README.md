@@ -2,7 +2,7 @@
 
 # pi.keeb
 
-meet pi.keeb my first hardware project, all thanks to the nice peeps at the Hack CLub, this macro pad acts as multi action keypad, can launch apps, turn up and down the volume and all other normal macro pad stuff. Heavily inspired by the [Treasure type 9 design]([Treasure® TYPE-9 (Series III) LE](https://treasuretypes.com/products/type9)), with a touch of functionality!
+meet pi.keeb my first hardware project, all thanks to the nice peeps at the Hack CLub, this macro pad acts as multi action keypad, can launch apps, turn up and down the volume and all other normal macro pad stuff. Heavily inspired by the [Treasure type 9 design](https://treasuretypes.com/products/type9), with a touch of functionality!
 
 ---
 # Features
